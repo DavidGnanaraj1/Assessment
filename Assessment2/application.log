@@ -1,0 +1,284 @@
+2019-11-05 13:05:49,591  INFO [main] LogReport:22 - IE browser opens
+2019-11-05 13:05:53,466  INFO [main] LogReport:22 - Application is open
+2019-11-05 13:07:26,669  INFO [main] LogReport:22 - IE browser opens
+2019-11-05 13:11:27,704  INFO [main] LogReport:22 - IE browser opens
+2019-11-05 13:11:47,286  INFO [main] LogReport:22 - Application is open
+2019-11-05 13:19:57,909  INFO [main] LogReport:22 - IE browser opens
+2019-11-05 13:20:25,189  INFO [main] LogReport:22 - Application is open
+2019-11-05 13:21:51,036  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-05 13:22:04,928  INFO [main] LogReport:22 - Application is open
+2019-11-05 14:02:25,504  INFO [main] LogReport:24 - Application is open
+2019-11-05 14:52:04,386  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 14:52:21,963  INFO [main] LogReport:24 - Application is open
+2019-11-05 14:55:27,216  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 14:55:47,878  INFO [main] LogReport:24 - Application is open
+2019-11-05 17:24:04,191  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 17:24:16,963  INFO [main] LogReport:24 - Application is open
+2019-11-05 17:40:22,460  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 17:40:46,616  INFO [main] LogReport:24 - Application is open
+2019-11-05 17:47:30,083  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 17:47:46,248  INFO [main] LogReport:24 - Application is open
+2019-11-05 17:48:40,341  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 17:48:51,917  INFO [main] LogReport:24 - Application is open
+2019-11-05 17:50:16,754  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 17:50:33,970  INFO [main] LogReport:24 - Application is open
+2019-11-05 18:06:18,985  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 18:06:34,148  INFO [main] LogReport:24 - Application is open
+2019-11-05 18:38:16,538  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 18:38:28,640  INFO [main] LogReport:24 - Application is open
+2019-11-05 18:48:11,979  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 18:48:26,277  INFO [main] LogReport:24 - Application is open
+2019-11-05 18:52:19,650  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 18:52:48,188  INFO [main] LogReport:24 - Application is open
+2019-11-05 20:01:58,086  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 20:02:14,595  INFO [main] LogReport:24 - Application is open
+2019-11-05 20:10:08,879  INFO [main] LogReport:24 - Application is open
+2019-11-05 20:11:43,137  INFO [main] LogReport:24 - Application is open
+2019-11-05 21:09:24,108  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 21:09:38,049  INFO [main] LogReport:24 - Application is open
+2019-11-05 21:16:45,419  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 21:16:57,559  INFO [main] LogReport:24 - Application is open
+2019-11-05 21:17:03,659  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 21:17:17,369  INFO [main] LogReport:24 - Application is open
+2019-11-05 21:26:33,241  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 21:26:49,176  INFO [main] LogReport:24 - Application is open
+2019-11-05 21:26:54,653  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 21:27:07,379  INFO [main] LogReport:24 - Application is open
+2019-11-05 21:28:26,006  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 21:28:37,753  INFO [main] LogReport:24 - Application is open
+2019-11-05 21:28:44,750  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-05 21:28:56,411  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:30:59,457  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-06 10:31:11,558  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:31:17,678  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-06 10:31:30,027  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:36:31,462  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-06 10:36:46,928  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:36:52,845  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-06 10:37:05,756  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:38:26,682  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 10:38:57,887  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:39:00,841  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 10:39:27,118  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:48:10,344  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 10:48:23,202  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:48:25,923  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 10:48:37,824  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:50:06,006  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 10:50:18,733  INFO [main] LogReport:24 - Application is open
+2019-11-06 10:50:21,421  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 10:50:33,203  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:21:01,100  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:21:13,422  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:21:17,577  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:21:30,791  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:23:12,447  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:23:24,053  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:23:28,466  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:23:40,456  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:25:53,616  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:26:15,384  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:26:19,230  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:26:31,954  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:27:49,588  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:28:02,621  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:28:09,003  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:28:21,235  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:29:49,703  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:30:03,045  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:30:09,574  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:30:22,641  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:37:39,462  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:37:52,317  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:37:58,705  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:38:11,111  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:38:40,862  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:38:57,135  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:39:01,628  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:39:20,418  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:39:35,732  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:39:54,352  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:39:58,892  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:40:21,889  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:40:54,668  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:41:17,940  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:41:24,175  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:41:36,950  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:44:06,924  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:44:19,791  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:44:26,141  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:44:39,537  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:53:56,995  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:54:10,073  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:54:14,262  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:54:27,337  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:59:35,045  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 11:59:49,138  INFO [main] LogReport:24 - Application is open
+2019-11-06 11:59:55,464  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-06 12:00:11,396  INFO [main] LogReport:24 - Application is open
+2019-11-06 12:02:56,309  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 12:03:08,667  INFO [main] LogReport:24 - Application is open
+2019-11-06 12:03:11,860  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 12:03:24,882  INFO [main] LogReport:24 - Application is open
+2019-11-06 12:07:21,070  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 12:07:34,782  INFO [main] LogReport:24 - Application is open
+2019-11-06 13:04:10,283  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 13:04:12,716  INFO [main] LogReport:24 - Application is open
+2019-11-06 13:04:58,939  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 13:05:03,091  INFO [main] LogReport:24 - Application is open
+2019-11-06 13:06:00,851  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 13:06:02,260  INFO [main] LogReport:24 - Application is open
+2019-11-06 13:08:11,055  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 13:08:12,456  INFO [main] LogReport:24 - Application is open
+2019-11-06 13:19:38,611  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 13:19:40,938  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:26:21,589  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:26:23,857  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:33:50,972  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:33:52,413  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:39:09,861  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:39:11,206  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:43:48,605  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:43:50,822  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:43:52,156 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-06 14:43:52,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-06 14:43:52,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-06 14:43:52,163 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-06 14:43:52,164 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-06 14:46:54,473  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:46:55,952  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:46:57,366 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-06 14:46:57,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-06 14:46:57,372 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-06 14:46:57,374 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-06 14:46:57,375 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-06 14:49:16,119  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:49:17,497  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:49:18,931 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-06 14:49:18,933 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-06 14:49:18,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-06 14:49:18,940 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-06 14:49:18,941 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-06 14:51:59,860  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:52:01,288  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:52:02,892 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-06 14:52:02,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-06 14:52:02,897 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-06 14:52:02,898 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-06 14:52:02,900 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-06 14:56:59,088  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:57:00,545  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:57:02,034 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-06 14:57:02,036 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-06 14:57:02,039 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-06 14:57:02,041 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-06 14:57:02,042 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-06 14:58:04,078  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:58:05,518  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:58:06,966 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-06 14:58:06,968 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-06 14:58:06,971 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-06 14:58:06,973 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-06 14:58:06,973 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-06 14:59:11,130  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 14:59:13,419  INFO [main] LogReport:24 - Application is open
+2019-11-06 14:59:14,861 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-06 14:59:14,864 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-06 14:59:14,867 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-06 14:59:14,869 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-06 14:59:14,870 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-06 15:02:08,243  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:02:10,113  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:02:11,595 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-06 15:02:11,599 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-06 15:02:11,603 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-06 15:02:11,607 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-06 15:02:11,608 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-06 15:03:20,482  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:03:22,155  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:03:23,806 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-06 15:03:23,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-06 15:03:23,816 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-06 15:03:23,818 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-06 15:03:23,819 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-06 15:04:40,251  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:04:41,652  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:07:13,532  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:07:15,364  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:07:57,549  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:08:16,486  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:11:06,483  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:11:17,973  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:12:24,561  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:12:31,292  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:15:53,169  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:15:56,139  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:18:07,771  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:18:19,236  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:18:43,253  INFO [main] LogReport:24 - IE browser opens
+2019-11-06 15:18:55,527  INFO [main] LogReport:24 - Application is open
+2019-11-06 15:23:29,108  INFO [TestNG-tests-3] LogReport:24 - IE browser opens
+2019-11-06 15:23:29,108  INFO [TestNG-tests-2] LogReport:24 - IE browser opens
+2019-11-06 15:23:29,108  INFO [TestNG-tests-1] LogReport:24 - IE browser opens
+2019-11-06 15:23:48,319  INFO [TestNG-tests-3] LogReport:24 - Application is open
+2019-11-06 15:23:49,843  INFO [TestNG-tests-1] LogReport:24 - Application is open
+2019-11-06 15:23:50,923  INFO [TestNG-tests-2] LogReport:24 - Application is open
+2019-11-06 15:24:17,843  INFO [TestNG-tests-3] LogReport:24 - Chrome browser opens
+2019-11-06 15:24:22,678  INFO [TestNG-tests-1] LogReport:24 - Firefox browser opens
+2019-11-06 15:24:34,505  INFO [TestNG-tests-3] LogReport:24 - Application is open
+2019-11-06 15:24:37,794  INFO [TestNG-tests-1] LogReport:24 - Application is open
+2019-11-06 15:26:10,060  INFO [TestNG-tests-2] LogReport:24 - IE browser opens
+2019-11-06 15:26:10,651  INFO [TestNG-tests-3] LogReport:24 - Chrome browser opens
+2019-11-06 15:26:15,070  INFO [TestNG-tests-1] LogReport:24 - Firefox browser opens
+2019-11-06 15:26:28,511  INFO [TestNG-tests-2] LogReport:24 - Application is open
+2019-11-06 15:26:30,218  INFO [TestNG-tests-3] LogReport:24 - Application is open
+2019-11-06 15:26:33,894  INFO [TestNG-tests-1] LogReport:24 - Application is open
+2019-11-07 10:57:09,006  INFO [main] LogReport:24 - IE browser opens
+2019-11-07 11:44:52,169  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 12:04:47,969  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 12:12:13,244  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 12:20:12,534  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 12:21:45,048  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 12:23:31,699  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 12:56:02,330  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 13:02:19,853  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 13:15:01,958  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 13:16:44,058  INFO [main] LogReport:24 - Chrome browser opens
+2019-11-07 13:20:54,271  INFO [main] LogReport:24 - Application is open
+2019-11-07 13:43:28,840  INFO [TestNG-tests-3] LogReport:24 - Chrome browser opens
+2019-11-07 13:43:40,442  INFO [TestNG-tests-2] LogReport:24 - IE browser opens
+2019-11-07 13:43:44,256  INFO [TestNG-tests-1] LogReport:24 - Firefox browser opens
+2019-11-07 14:31:19,562  INFO [main] LogReport:24 - IE browser opens
+2019-11-07 14:42:09,722  INFO [main] LogReport:24 - IE browser opens
+2019-11-07 14:45:35,125  INFO [main] LogReport:24 - IE browser opens
+2019-11-07 14:46:22,330  INFO [main] LogReport:24 - IE browser opens
+2019-11-07 14:52:01,644  INFO [main] LogReport:24 - IE browser opens
+2019-11-07 14:53:46,627  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:01:10,661  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:03:57,503  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:06:38,780  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:07:58,609  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:11:26,992  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:13:30,289  INFO [main] LogReport:24 - IE browser opens
+2019-11-07 15:14:55,354  INFO [main] LogReport:24 - IE browser opens
+2019-11-07 15:17:52,287  INFO [main] LogReport:24 - IE browser opens
+2019-11-07 15:21:58,792  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:23:59,810  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:35:06,558  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:38:01,238  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:41:10,753  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:43:04,838  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:44:01,374  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 15:52:56,702  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 16:00:36,691  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 16:05:11,879  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 16:16:26,863  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 16:17:10,886  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 16:41:39,972  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 16:44:27,258  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 16:56:11,124  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 17:00:11,672  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 17:28:42,053  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 17:29:42,890  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 17:39:47,081  INFO [main] LogReport:24 - Firefox browser opens
+2019-11-07 17:40:56,736  INFO [main] LogReport:24 - Firefox browser opens
