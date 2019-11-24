@@ -1,5 +1,8 @@
 package com.atmecs.assessmenttask.pageactions;
 
+import java.io.IOException;
+import java.util.Properties;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
@@ -9,8 +12,10 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import com.atmecs.assessmenttask.constants.FilePath;
 import com.atmecs.assessmenttask.reports.LogReport;
 import com.atmecs.assessmenttask.utils.LocatorSeparator;
+import com.atmecs.assessmenttask.utils.PropertiesFileReader;
 
 /**
  * This class has methods to perform actions in an element like clicking the
@@ -28,12 +33,14 @@ public class PageActions {
 	WebDriver driver;
 	LocatorSeparator separatelocator;
     ExplicitWaitHelpers waithelper;
-
-	public PageActions() {
+    Properties properties;
+	
+    public PageActions() throws IOException {
 
 		log = new LogReport();
 		separatelocator = new LocatorSeparator();
 		waithelper = new ExplicitWaitHelpers();
+		properties= new PropertiesFileReader().loadingPropertyFile(FilePath.LOCATORS_FILE);
 	}
 	
 	
@@ -98,7 +105,7 @@ public class PageActions {
 	/**
 	 * This method will get the value attribute of the given attribute
 	 */
-	 public  String getAttribute(WebDriver driver,String locatorwithtype,String value)
+	 public  String getAttributeValue(WebDriver driver,String locatorwithtype,String value)
 	    {
 			WebElement element = driver.findElement(separatelocator.separatingLocators(locatorwithtype));
 			String text = element.getAttribute(value);
@@ -110,13 +117,24 @@ public class PageActions {
 	  * This method is used to move the mouse by the given X,Y values
 	  */
 	 public void moveByOffsetHelper(WebDriver driver, String locatorwithtype) {
-			WebElement elm = driver.findElement(separatelocator.separatingLocators(locatorwithtype));
+			
+		    WebElement elm = driver.findElement(separatelocator.separatingLocators(locatorwithtype));
 			Point pt = elm.getLocation();
 			int NumberX = pt.getX();
 			int NumberY = pt.getY();
 			Actions act = new Actions(driver);
 			act.moveByOffset(NumberX + 1, NumberY).click().build().perform();
 		}
-
+	 
+	 
+	 public void  checkingPageRedirection(WebDriver driver,String targetpagedetail,String targetpagedetailtype) {
+	    	
+		    WebElement targetpageelement=driver.findElement(separatelocator.separatingLocators(properties.getProperty(targetpagedetailtype)));
+		    if(!(targetpageelement.isDisplayed())){
+		    	log.info("Not in the correct targeted page");
+		    }
+	    	
+	    	
+	    }
 
 }
