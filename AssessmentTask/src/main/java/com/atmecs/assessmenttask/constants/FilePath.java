@@ -23,7 +23,7 @@ public class FilePath {
 	public static final String TESTDATA_FILE = USER_DIR + "src/test/resources" + File.separator + "testData" + File.separator
 			+ "testdata.xlsx";
 
-	public static final String EXPECTEDDATA_FILE = USER_DIR + "resources" + File.separator + "expectedData"
+	public static final String EXPECTEDDATA_FILE = USER_DIR +"src/test/resources"+File.separator+ "testData"
 			+ File.separator + "expecteddata.properties";
 
 }

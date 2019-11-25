@@ -136,5 +136,16 @@ public class PageActions {
 	    	
 	    	
 	    }
-
+    public void isSelected(WebDriver driver,String locatorwithtype) {
+    	 WebElement elementtobecheckedwhetherselected=driver.findElement(separatelocator.separatingLocators(locatorwithtype));
+    
+        if(elementtobecheckedwhetherselected.isSelected()) {
+     	   log.info(elementtobecheckedwhetherselected+"is selected ");
+     	   
+        }else if(!(elementtobecheckedwhetherselected.isSelected())) {
+     	   log.info(elementtobecheckedwhetherselected+"not selected ");
+    	
+    	
+    }
+    }
 }

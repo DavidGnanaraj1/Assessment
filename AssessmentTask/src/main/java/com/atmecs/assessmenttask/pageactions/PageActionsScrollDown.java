@@ -2,6 +2,7 @@ package com.atmecs.assessmenttask.pageactions;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 public class PageActionsScrollDown {
 	public void pageScrollDown(WebDriver driver)
@@ -10,10 +11,10 @@ public class PageActionsScrollDown {
 		javaScriptExecutor.executeScript("window.scrollBy(0,1200)");
 	}
 	
-	public  void pageScrollDownTillElementVisible(WebDriver driver) 
+	public  void pageScrollDownTillElementVisible(WebDriver driver,WebElement elementtobeviewed) 
 	{
 		JavascriptExecutor javaScriptExecutor = (JavascriptExecutor) driver;
-		javaScriptExecutor.executeScript("window.scrollBy(0,-1700)");
+		javaScriptExecutor.executeScript("arguments[0].scrollIntoView();", elementtobeviewed);
 	}
 
 	public  void scrollToBottom(WebDriver driver)

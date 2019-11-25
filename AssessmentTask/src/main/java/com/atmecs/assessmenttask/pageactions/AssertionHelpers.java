@@ -26,6 +26,7 @@ public class AssertionHelpers {
 	LocatorSeparator separatinglocators;
 	Properties properties;
 	PageActions pageactions;
+	Properties testdatapropertiesfile;
 	
 	/**
 	 * This constructor loads the locators.properties file
@@ -35,6 +36,7 @@ public class AssertionHelpers {
 		separatinglocators=new LocatorSeparator();
 		properties= new PropertiesFileReader().loadingPropertyFile(FilePath.LOCATORS_FILE);
 		pageactions= new PageActions();
+		testdatapropertiesfile= new PropertiesFileReader().loadingPropertyFile(FilePath.EXPECTEDDATA_FILE);
 	}
 	
 
@@ -44,15 +46,14 @@ public class AssertionHelpers {
 	 */
 	public void assertingStringTexts(WebDriver driver,String actualelementlocator,String expectedelementlocator) throws IOException {
 		
-		WebElement element =driver.findElement(separatinglocators.separatingLocators(properties.getProperty(actualelementlocator)));
-	    String actualvalue=element.getText();
-	    String expectedvalue=properties.getProperty(expectedelementlocator);
+		WebElement actualtextelement =driver.findElement(separatinglocators.separatingLocators(properties.getProperty(actualelementlocator)));
+	    String actualtextvalue=actualtextelement.getText();
+	    String expectedtextvalue=testdatapropertiesfile.getProperty(expectedelementlocator);
 	    
-	    Assert.assertEquals(actualvalue, expectedvalue);
-	
+	    Assert.assertEquals(actualtextvalue, expectedtextvalue);
+	    
 }
 	
-
 	/**
 	 * This method gets the actual pagetitle from webpage and get the expected page title from properties file
 	 *  assert whether actual pagetitle and expected pagetitle are equal or not
@@ -64,27 +65,29 @@ public class AssertionHelpers {
 		Assert.assertEquals(actualpagetitle, expectedpagetitle);
 	}
 	
-	public void assertingArrayWithIndex(WebDriver driver,String expecteddataarraykey,int iterationnumber,int numberofproducts,String actualcommonelementlocator,String verifyingcontent) {
-		
+	
+	public String assertingMultipleValues(WebDriver driver,String expecteddataarray[],int iterationnumber,int numberofproducts,String actualcommonelementlocator) {
+		String returnstatement = null;
 		for(int index=0;index<iterationnumber;index++) {
-		String expecteddata=properties.getProperty(expecteddataarraykey);
-		String expecteddataarray[]=new String[numberofproducts];
-		expecteddataarray=expecteddata.split("\\s");
+	    
 		List<WebElement> actualdata=driver.findElements(separatinglocators.separatingLocators(properties.getProperty(actualcommonelementlocator)));
-		
-		switch (verifyingcontent) {
-			
-		    case "innertext":
-		    WebElement element=actualdata.get(index);
-		    
-			element.getText();
-			
-			case "footerpagetitle":
-			pageactions.click();
+	    String actualdataarray[]= new String [numberofproducts];
+	    actualdataarray[index]=actualdata.get(index).getText();
+	    try {
+			Assert.assertEquals(actualdataarray[index], expecteddataarray[index]);
+			return returnstatement="Validation completed for "+expecteddataarray[index];
+		} catch (Exception e) {
+			e.printStackTrace();
+			return returnstatement="Assertion failed" + actualdataarray[index] + "," +expecteddataarray[index] + " not matching";
+
 		}
+		}
+	        return returnstatement;
+	    
+		    	
    	}
 	}
    
 	
-}
+
 
